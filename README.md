@@ -2,6 +2,13 @@
 
 Welcome to the Guess the Number game! This project is a simple and interactive game created using HTML, CSS, and JavaScript. It challenges users to guess a randomly generated number within a specified range.
 
+## How it looks
+<img width="578" alt="Screenshot 2024-02-03 173021" src="https://github.com/marium-noor/Guess-the-number-game/assets/145590434/4ee801bc-5a08-4e0a-877f-c33c24608e92">
+
+
+
+
+
 ## How to Play
 
 1. **Clone the Repository:**
